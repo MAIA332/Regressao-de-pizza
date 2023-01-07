@@ -6,7 +6,7 @@ A baixo á uma breve análise explolatória da relação entre os dados de preç
 
 ![image](https://user-images.githubusercontent.com/67965680/211149486-3261422a-f407-42ec-8d04-7ed6b4b8fb73.png)
 
-Requirements:
+## Requirements:
 
 matplotlib==3.6.2 </br>
 numpy==1.24.1 </br>
