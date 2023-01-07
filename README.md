@@ -8,6 +8,6 @@ A baixo á uma breve análise explolatória da relação entre os dados de preç
 
 Requirements:
 
-matplotlib==3.6.2
-numpy==1.24.1
-scikit-learn==1.2.0
+matplotlib==3.6.2 </br>
+numpy==1.24.1 </br>
+scikit-learn==1.2.0 </br>
